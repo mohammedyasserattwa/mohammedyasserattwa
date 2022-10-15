@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedyasserattwa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedyasserattwa" /> </p>
 
-- 🔭 I’m currently working on my **Bio website**
-
 - 🌱 I’m currently learning **ReactJS, Flutter, NodeJS, PYTHON, HTML, CSS**
 
 - 📫 How to reach me **mohammedyasserattwa@gmail.com**
